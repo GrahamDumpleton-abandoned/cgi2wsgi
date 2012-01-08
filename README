@@ -1,0 +1,3 @@
+Robust CGI/WSGI adapter which protects stdin/stdout and performs other
+validity checks on type of status line, headers and response data as well
+as amount of response data produced by the WSGI application.
